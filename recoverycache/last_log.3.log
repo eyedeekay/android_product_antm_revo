@@ -1,0 +1,164 @@
+__bionic_open_tzdata: couldn't find any tzdata when looking for America/Los_Angeles!
+__bionic_open_tzdata: couldn't find any tzdata when looking for GMT!
+__bionic_open_tzdata: couldn't find any tzdata when looking for posixrules!
+Starting recovery on Thu Jan 29 09:15:26 2015
+recovery filesystem table
+=========================
+  0 /bootloader vfat /dev/block/by-name/bootloader 0
+  1 /env emmc /dev/block/by-name/env 0
+  2 /boot emmc /dev/block/by-name/boot 0
+  3 /system ext4 /dev/block/by-name/system 0
+  4 /data ext4 /dev/block/by-name/UDISK 0
+  5 /misc emmc /dev/block/by-name/misc 0
+  6 /recovery emmc /dev/block/by-name/recovery 0
+  7 /cache ext4 /dev/block/by-name/cache 0
+  8 /extsd vfat /dev/block/mmcblk0 0
+  9 /tmp ramdisk ramdisk 0
+
+I:Boot command: boot-recovery
+I:Got arguments from /cache/recovery/command
+locale is [en_US]
+insmod_name:gslX680new, name_len:10, i:0
+insmod_name:gslX680new
+start to insmod gslX680new.ko
+framebuffer: fd 4 (1024 x 600)
+       installing_text: en (324 x 38 @ 411)
+          erasing_text: en (109 x 38 @ 312)
+       no_command_text: en (172 x 38 @ 312)
+            error_text: en (64 x 38 @ 312)
+Command: "/sbin/recovery" "--wipe_data" "--locale=en_US"
+
+ro.bt.hide=0
+ro.sf.lcd_density=160
+ro.sw.embeded.telephony=false
+ro.adb.secure=1
+ro.com.google.gmsversion=4.4_r3
+ro.com.android.dateformat=MM-dd-yyyy
+ro.hwa.force=false
+ro.sys.cputype=QuadCore-A33
+ro.sys.mutedrm=true
+ro.sys.bootfast=false
+ro.sys.network_location=true
+ro.boot.signature=null
+ro.font.scale=0.90
+ro.fota.oem=nexthuawenA33_KK
+ro.fota.type=pad
+ro.fota.device=AN708
+ro.fota.version=AN708-20150128-1417
+ro.fota.platform=AW_A33_KK
+ro.wifi.channels=
+ro.allow.mock.location=1
+ro.board.platform=polaris
+ro.build.id=KVT49L
+ro.build.date=2015年 01月 28日 星期三 14:17:12 CST
+ro.build.date.utc=1422425832
+ro.build.host=Exdroid
+ro.build.tags=test-keys
+ro.build.type=eng
+ro.build.user=builder3
+ro.build.display.id=astar_d87-eng 4.4.2 KVT49L 20150128 test-keys
+ro.build.product=astar-d87
+ro.build.version.sdk=19
+ro.build.version.release=4.4.2
+ro.build.version.codename=REL
+ro.build.version.incremental=20150128
+ro.build.description=astar_d87-eng 4.4.2 KVT49L 20150128 test-keys
+ro.build.fingerprint=ANTM/astar_d87/astar-d87:4.4.2/KVT49L/20150128:eng/test-keys
+ro.build.characteristics=tablet
+ro.udisk.lable=Polaris
+ro.config.low_ram=false
+ro.config.ringtone=Ring_Synth_04.ogg
+ro.config.alarm_alert=Alarm_Classic.ogg
+ro.config.max_starting_bg=5
+ro.config.notification_sound=pixiedust.ogg
+ro.kernel.android.checkjni=0
+ro.secure=0
+ro.zygote.disable_gl_preload=true
+ro.carrier=wifi-only
+ro.product.cpu.abi=armeabi-v7a
+ro.product.cpu.abi2=armeabi
+ro.product.name=astar_d87
+ro.product.board=exdroid
+ro.product.brand=ANTM
+ro.product.model=AN708
+ro.product.device=astar-d87
+ro.product.locale.region=US
+ro.product.locale.language=en
+ro.product.firmware=v2.1
+ro.product.manufacturer=ANTM
+ro.baseband=unknown
+ro.bootmode=unknown
+ro.hardware=sun8i
+ro.opengles.version=131072
+ro.revision=0
+ro.serialno=032c1898a91500000000
+ro.reversion.aw_sdk_tag=exdroid4.4.2_r2-a33-v2.1
+ro.bootloader=unknown
+ro.debuggable=1
+ro.factorytest=0
+ro.setupwizard.mode=OPTIONAL
+rw.logger=0
+drm.service.enabled=true
+net.bt.name=Android
+net.change=net.bt.name
+sys.mem.opt=false
+init.svc.adbd=running
+init.svc.healthd=running
+init.svc.ueventd=running
+init.svc.recovery=running
+wifi.interface=wlan0
+wifi.supplicant_scan_interval=15
+debug.hwc.showfps=0
+debug.hwui.render_dirty_regions=false
+dalvik.vm.heapsize=384m
+dalvik.vm.heapmaxfree=8m
+dalvik.vm.heapminfree=2m
+dalvik.vm.dexopt-flags=v=n,m=y
+dalvik.vm.heapstartsize=8m
+dalvik.vm.heapgrowthlimit=96m
+dalvik.vm.stack-trace-file=/data/anr/traces.txt
+dalvik.vm.heaptargetutilization=0.75
+persist.sys.usb.config=mtp
+persist.sys.dalvik.vm.lib=libdvm.so
+persist.sys.country=US
+persist.sys.language=en
+persist.sys.timezone=America/Los_Angeles
+persist.sys.strictmode.visual=0
+persist.sys.strictmode.disable=1
+persist.demo.hdmirotationlock=0
+keyguard.no_require_sim=true
+
+Formatting /data...
+Creating filesystem with parameters:
+    Size: 6182404096
+    Block size: 4096
+    Blocks per group: 32768
+    Inodes per group: 8032
+    Inode size: 256
+    Journal blocks: 23584
+    Label: 
+    Blocks: 1509376
+    Block groups: 47
+    Reserved block group size: 375
+Created filesystem with 11/377504 inodes and 50291/1509376 blocks
+warning: wipe_block_device: Discard failed
+
+Formatting /cache...
+Creating filesystem with parameters:
+    Size: 536870912
+    Block size: 4096
+    Blocks per group: 32768
+    Inodes per group: 8192
+    Inode size: 256
+    Journal blocks: 2048
+    Label: 
+    Blocks: 131072
+    Block groups: 4
+    Reserved block group size: 31
+Created filesystem with 11/32768 inodes and 4206/131072 blocks
+warning: wipe_block_device: Discard failed
+
+begin copy databk to data
+resume data finish
+copy databk to data succeed
+I:Saving locale "en_US"
