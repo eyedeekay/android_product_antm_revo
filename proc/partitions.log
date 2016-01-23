@@ -1,0 +1,14 @@
+major minor  #blocks  name
+
+ 179        0    3872256 mmcblk0
+ 179        1    3868160 mmcblk0p1
+  93        0      32768 nanda
+  93        8      16384 nandb
+  93       16      16384 nandc
+  93       24     786432 nandd
+  93       32      16384 nande
+  93       40      32768 nandf
+  93       48     524288 nandg
+  93       56      16384 nandh
+  93       64      16384 nandi
+  93       72    6037504 nandj

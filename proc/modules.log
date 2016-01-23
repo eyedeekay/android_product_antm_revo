@@ -1,0 +1,25 @@
+gslX680new 420184 0 - Live 0x00000000 (F)
+mma7660 6674 0 - Live 0x00000000
+sunxi_schw 12559 0 - Live 0x00000000 (O)
+cdc_ether 5099 0 - Live 0x00000000
+rtl8150 9023 0 - Live 0x00000000
+mcs7830 6292 0 - Live 0x00000000
+qf9700 7805 0 - Live 0x00000000
+asix 17150 0 - Live 0x00000000
+usbnet 17700 4 cdc_ether,mcs7830,qf9700,asix, Live 0x00000000
+sunxi_keyboard 3021 0 - Live 0x00000000
+sw_device 13612 0 - Live 0x00000000
+vfe_v4l2 445340 0 - Live 0x00000000
+gc0308 10543 0 - Live 0x00000000
+gc2145 12416 0 - Live 0x00000000
+vfe_subdev 4523 3 vfe_v4l2,gc0308,gc2145, Live 0x00000000
+vfe_os 3951 2 vfe_v4l2,vfe_subdev, Live 0x00000000
+cci 21602 4 gc0308,gc2145, Live 0x00000000
+videobuf_dma_contig 5567 1 vfe_v4l2, Live 0x00000000
+videobuf_core 16520 2 vfe_v4l2,videobuf_dma_contig, Live 0x00000000
+bcmdhd 556681 0 - Live 0x00000000
+leds_sunxi 1359 0 - Live 0x00000000
+mali 208794 20 - Live 0x00000000 (O)
+lcd 38432 0 - Live 0x00000000
+disp 992816 8 mali,lcd, Live 0x00000000
+nand 280146 6 - Live 0x00000000 (O)

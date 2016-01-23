@@ -1,0 +1,39 @@
+01c02000-01c024dc : sunxi_dmac
+01c0f000-01c0ffff : sunxi-mmc
+01c10000-01c10fff : sunxi-mmc
+01c28000-01c283ff : uart
+01c28400-01c287ff : uart
+01c2ac00-01c2afff : twi.0
+  01c2ac00-01c2afff : twi.0
+01c2b000-01c2b3ff : twi.1
+  01c2b000-01c2b3ff : twi.1
+01c2b400-01c2b7ff : twi.2
+  01c2b400-01c2b7ff : twi.2
+01c40000-01c40100 : Mali_GP
+01c41000-01c41200 : Mali_L2
+01c42000-01c42100 : Mali_PMU
+01c43000-01c43100 : Mali_GP_MMU
+01c44000-01c44100 : Mali_PP0_MMU
+01c45000-01c45100 : Mali_PP1_MMU
+01c48000-01c49100 : Mali_PP0
+01c4a000-01c4b100 : Mali_PP1
+01c62000-01c620c4 : MBUS_PMU
+  01c62000-01c620c4 : MBUS_PMU
+01cb0000-01cb0fff : csi
+  01cb0000-01cb0fff : module
+01cb8000-01cb8fff : isp
+  01cb8000-01cb8fff : module
+40000000-7fffffff : System RAM
+  40008000-408e93d3 : Kernel code
+  4093e000-40b216c7 : Kernel data
+f1c0c000-f1c0c3fc : lcd0
+f1c20000-f1c202dc : ccmu
+f1c20800-f1c20a7c : pioc
+f1c21400-f1c2143c : pwm
+f1ca0000-f1ca02fc : dsi0
+f1ca1000-f1ca10fc : dsi0_dphy
+f1e00000-f1e0022c : fe0
+f1e60000-f1e600fc : be0
+f1e70000-f1e700fc : drc0
+f1e70200-f1e702fc : wb0
+f1e80000-f1e802fc : sat0

@@ -1,0 +1,1462 @@
+drwxr-x--- root     root              1969-12-31 19:00 sbin
+-rw-rw-rw- root     root           13 2015-02-01 09:45 #ffffff000000tl.bin
+-rw------- u0_a69   u0_a69          8 2016-01-22 19:49 background_results.bin
+-rw------- u0_a18   u0_a18      20299 2016-01-22 19:46 SearchSettings.bin
+-rw------- u0_a18   u0_a18       2129 2016-01-22 03:35 StartupSettings.bin
+-rw------- u0_a73   u0_a73       6293 2016-01-21 21:45 com.ihunda.android.binauralbeat.39.png
+-rw------- u0_a73   u0_a73       3782 2016-01-22 16:09 de.Cherubin7th.blackscreenpresentationremote.2.png
+-rw------- media    audio        2621 2016-01-22 03:00 cert.bin
+-rw-rw---- system   wifi           21 2016-01-22 19:48 entropy.bin
+-rw------- system   system      61012 2016-01-22 20:48 batterystats.bin
+-rw------- system   system      34424 2016-01-22 00:24 state-2016-01-21-18-04-43.bin
+-rw------- system   system      15228 2016-01-22 03:25 state-2016-01-21-21-24-00.bin
+-rw------- system   system      19952 2016-01-22 06:41 state-2016-01-22-00-25-00.bin
+-rw------- system   system      22576 2016-01-22 09:57 state-2016-01-22-06-41-00.bin
+-rw------- system   system      18524 2016-01-22 14:53 state-2016-01-22-09-57-29.bin
+-rw------- system   system      12832 2016-01-22 15:06 state-2016-01-22-14-53-00.bin
+-rw------- system   system      38192 2016-01-22 19:45 state-2016-01-22-15-08-23.bin
+-rw------- system   system      24584 2016-01-22 19:48 state-2016-01-22-19-46-38.bin
+-rw------- system   system      26332 2016-01-22 20:50 state-2016-01-22-19-48-33.bin
+-rw------- system   system          4 2016-01-22 19:48 stats.bin
+-rw------- system   system          4 2016-01-22 19:48 status.bin
+crw-rw-rw- root     root      10,  53 2016-01-22 19:48 binder
+-r--r----- root     log             0 2016-01-22 20:55 slabinfo
+lrwxrwxrwx root     root              2016-01-22 19:49 exe -> /sbin/healthd
+lrwx------ root     root              2016-01-22 19:49 5 -> /dev/binder
+lrwxrwxrwx root     root              2016-01-22 19:49 exe -> /sbin/healthd
+lrwx------ root     root              2016-01-22 19:49 5 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:49 exe -> /system/bin/servicemanager
+lrwx------ system   system            2016-01-22 19:49 3 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:49 exe -> /system/bin/servicemanager
+lrwx------ system   system            2016-01-22 19:49 3 -> /dev/binder
+lrwxrwxrwx root     root              2016-01-22 19:49 exe -> /system/bin/vold
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/vold
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/vold
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/vold
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/netd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/netd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/netd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/netd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/netd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/netd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/netd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/netd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/netd
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a15   u0_a15            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a15   u0_a15            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/debuggerd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/debuggerd
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx system   graphics          2016-01-22 19:50 exe -> /system/bin/surfaceflinger
+lrwx------ system   graphics          2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/app_process
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/app_process
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/app_process
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/app_process
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/app_process
+lrwxrwxrwx drm      drm               2016-01-22 19:50 exe -> /system/bin/drmserver
+lrwx------ drm      drm               2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx drm      drm               2016-01-22 19:50 exe -> /system/bin/drmserver
+lrwx------ drm      drm               2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx drm      drm               2016-01-22 19:50 exe -> /system/bin/drmserver
+lrwx------ drm      drm               2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a18   u0_a18            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a18   u0_a18            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx media    audio             2016-01-22 19:50 exe -> /system/bin/mediaserver
+lrwx------ media    audio             2016-01-22 19:50 3 -> /dev/binder
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/installd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/installd
+lrwxrwxrwx keystore keystore          2016-01-22 19:50 exe -> /system/bin/keystore
+lrwx------ keystore keystore          2016-01-22 19:50 12 -> /dev/binder
+lrwxrwxrwx keystore keystore          2016-01-22 19:50 exe -> /system/bin/keystore
+lrwx------ keystore keystore          2016-01-22 19:50 12 -> /dev/binder
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/sdcard
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/sdcard
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/sdcard
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /system/bin/sdcard
+lrwxrwxrwx shell    log               2016-01-22 19:50 exe -> /system/bin/mksh
+lrwxrwxrwx shell    log               2016-01-22 19:50 exe -> /system/bin/mksh
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx u0_a25   u0_a25            2016-01-22 19:50 exe -> /system/bin/app_process
+lrwx------ u0_a25   u0_a25            2016-01-22 19:50 41 -> /dev/binder
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /sbin/adbd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /sbin/adbd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /sbin/adbd
+lrwxrwxrwx root     root              2016-01-22 19:50 exe -> /sbin/adbd
+lrwxrwxrwx root     root              2016-01-22 19:51 exe -> /sbin/adbd
+lrwxrwxrwx root     root              2016-01-22 20:55 exe -> /sbin/adbd
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a30   u0_a30            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a30   u0_a30            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a38   u0_a38            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a38   u0_a38            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a42   u0_a42            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a42   u0_a42            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a28   u0_a28            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a28   u0_a28            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a28   u0_a28            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a28   u0_a28            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a28   u0_a28            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a28   u0_a28            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a28   u0_a28            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a28   u0_a28            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a28   u0_a28            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a28   u0_a28            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a28   u0_a28            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a28   u0_a28            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a28   u0_a28            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a28   u0_a28            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a28   u0_a28            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a28   u0_a28            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a28   u0_a28            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a28   u0_a28            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a28   u0_a28            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a28   u0_a28            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a28   u0_a28            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a28   u0_a28            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a69   u0_a69            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a69   u0_a69            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a1    u0_a1             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a1    u0_a1             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a49   u0_a49            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a49   u0_a49            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx root     root              2016-01-22 20:55 exe -> /system/bin/toolbox
+lrwxrwxrwx root     root              2016-01-22 20:55 exe -> /system/bin/toolbox
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx system   system            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ system   system            2016-01-22 19:51 40 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 20:55 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 20:55 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a11   u0_a11            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a11   u0_a11            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx root     root              2016-01-22 19:51 exe -> /system/bin/wpa_supplicant
+lrwxrwxrwx root     root              2016-01-22 19:51 exe -> /system/bin/wpa_supplicant
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a5    u0_a5             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a5    u0_a5             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a50   u0_a50            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a50   u0_a50            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a44   u0_a44            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a44   u0_a44            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx radio    radio             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ radio    radio             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a12   u0_a12            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a12   u0_a12            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a64   u0_a64            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a64   u0_a64            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a64   u0_a64            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a64   u0_a64            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a64   u0_a64            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a64   u0_a64            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a64   u0_a64            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a64   u0_a64            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a64   u0_a64            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a64   u0_a64            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a64   u0_a64            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a64   u0_a64            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a64   u0_a64            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a64   u0_a64            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a64   u0_a64            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a64   u0_a64            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a64   u0_a64            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a64   u0_a64            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a64   u0_a64            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a64   u0_a64            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a64   u0_a64            2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a64   u0_a64            2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 20:55 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 20:55 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 20:55 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 20:55 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx u0_a7    u0_a7             2016-01-22 19:51 exe -> /system/bin/app_process
+lrwx------ u0_a7    u0_a7             2016-01-22 19:51 41 -> /dev/binder
+lrwxrwxrwx root     radio             2016-01-22 19:51 exe -> /system/bin/rild
+lrwx------ root     radio             2016-01-22 19:51 19 -> /dev/binder
+lrwxrwxrwx root     radio             2016-01-22 19:51 exe -> /system/bin/rild
+lrwx------ root     radio             2016-01-22 19:51 19 -> /dev/binder
+lrwxrwxrwx root     radio             2016-01-22 19:51 exe -> /system/bin/rild
+lrwx------ root     radio             2016-01-22 19:51 19 -> /dev/binder
+lrwxrwxrwx root     radio             2016-01-22 19:51 exe -> /system/bin/rild
+lrwx------ root     radio             2016-01-22 19:51 19 -> /dev/binder
+lrwxrwxrwx root     radio             2016-01-22 19:51 exe -> /system/bin/rild
+lrwx------ root     radio             2016-01-22 19:51 19 -> /dev/binder
+lrwxrwxrwx root     root              2016-01-22 19:51 exe -> /system/bin/dhcpcd
+lrwxrwxrwx root     root              2016-01-22 19:51 exe -> /system/bin/dhcpcd
+dr-xr-xr-x root     root              2016-01-22 19:51 binfmt_misc
+./proc/sys/fs/binfmt_misc:
+-rw-r--r-- root     root            0 2016-01-22 19:51 ip_nonlocal_bind
+-rw-r--r-- root     root            0 2016-01-22 19:51 tcp_mtu_probing
+-rw-r--r-- root     root            0 2016-01-22 19:51 bindv6only
+./sbin:
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+-rw-r--r-- root     root         4096 2016-01-22 19:48 bind_mode
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:51 bind
+--w------- root     root         4096 2016-01-22 19:51 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+--w------- root     root         4096 2016-01-22 19:48 bind
+--w------- root     root         4096 2016-01-22 19:48 unbind
+lrwxrwxrwx root     root              2016-01-22 19:48 binder -> ../../devices/virtual/misc/binder
+lrwxrwxrwx root     root              2016-01-22 19:48 10:53 -> ../../devices/virtual/misc/binder
+drwxr-xr-x root     root              2016-01-22 19:48 binder
+./sys/devices/virtual/misc/binder:
+./sys/devices/virtual/misc/binder/power:
+-rw-r--r-- root     root         4096 2016-01-22 19:48 bind
+dr-xr-xr-x root     root              2016-01-22 19:48 binder
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+./sys/fs/selinux/class/binder:
+./sys/fs/selinux/class/binder/perms:
+-r--r--r-- root     root            0 2016-01-22 19:48 net_bind_service
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 node_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 node_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 node_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 node_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+-r--r--r-- root     root            0 2016-01-22 19:48 bind
+-r--r--r-- root     root            0 2016-01-22 19:48 name_bind
+drwxr-xr-x root     root              1969-12-31 19:00 binder
+./sys/kernel/debug/binder:
+./sys/kernel/debug/binder/proc:
+drwxr-xr-x root     root              1969-12-31 19:00 binder
+./sys/kernel/debug/tracing/events/binder:
+drwxr-xr-x root     root              1969-12-31 19:00 binder_command
+drwxr-xr-x root     root              1969-12-31 19:00 binder_ioctl
+drwxr-xr-x root     root              1969-12-31 19:00 binder_ioctl_done
+drwxr-xr-x root     root              1969-12-31 19:00 binder_lock
+drwxr-xr-x root     root              1969-12-31 19:00 binder_locked
+drwxr-xr-x root     root              1969-12-31 19:00 binder_read_done
+drwxr-xr-x root     root              1969-12-31 19:00 binder_return
+drwxr-xr-x root     root              1969-12-31 19:00 binder_transaction
+drwxr-xr-x root     root              1969-12-31 19:00 binder_transaction_alloc_buf
+drwxr-xr-x root     root              1969-12-31 19:00 binder_transaction_buffer_release
+drwxr-xr-x root     root              1969-12-31 19:00 binder_transaction_failed_buffer_release
+drwxr-xr-x root     root              1969-12-31 19:00 binder_transaction_fd
+drwxr-xr-x root     root              1969-12-31 19:00 binder_transaction_node_to_ref
+drwxr-xr-x root     root              1969-12-31 19:00 binder_transaction_received
+drwxr-xr-x root     root              1969-12-31 19:00 binder_transaction_ref_to_node
+drwxr-xr-x root     root              1969-12-31 19:00 binder_transaction_ref_to_ref
+drwxr-xr-x root     root              1969-12-31 19:00 binder_unlock
+drwxr-xr-x root     root              1969-12-31 19:00 binder_update_page_range
+drwxr-xr-x root     root              1969-12-31 19:00 binder_wait_for_work
+drwxr-xr-x root     root              1969-12-31 19:00 binder_write_done
+./sys/kernel/debug/tracing/events/binder/binder_command:
+./sys/kernel/debug/tracing/events/binder/binder_ioctl:
+./sys/kernel/debug/tracing/events/binder/binder_ioctl_done:
+./sys/kernel/debug/tracing/events/binder/binder_lock:
+./sys/kernel/debug/tracing/events/binder/binder_locked:
+./sys/kernel/debug/tracing/events/binder/binder_read_done:
+./sys/kernel/debug/tracing/events/binder/binder_return:
+./sys/kernel/debug/tracing/events/binder/binder_transaction:
+./sys/kernel/debug/tracing/events/binder/binder_transaction_alloc_buf:
+./sys/kernel/debug/tracing/events/binder/binder_transaction_buffer_release:
+./sys/kernel/debug/tracing/events/binder/binder_transaction_failed_buffer_release:
+./sys/kernel/debug/tracing/events/binder/binder_transaction_fd:
+./sys/kernel/debug/tracing/events/binder/binder_transaction_node_to_ref:
+./sys/kernel/debug/tracing/events/binder/binder_transaction_received:
+./sys/kernel/debug/tracing/events/binder/binder_transaction_ref_to_node:
+./sys/kernel/debug/tracing/events/binder/binder_transaction_ref_to_ref:
+./sys/kernel/debug/tracing/events/binder/binder_unlock:
+./sys/kernel/debug/tracing/events/binder/binder_update_page_range:
+./sys/kernel/debug/tracing/events/binder/binder_wait_for_work:
+./sys/kernel/debug/tracing/events/binder/binder_write_done:
+drwxr-xr-x root     root              1969-12-31 19:00 rpc_bind_status
+./sys/kernel/debug/tracing/events/sunrpc/rpc_bind_status:
+-rw-r--r-- root     root            0 1969-12-31 19:00 bin
+drwxr-xr-x root     root              2016-01-22 19:48 binder
+./sys/module/binder:
+./sys/module/binder/parameters:
+drwxr-xr-x root     shell             2015-01-28 01:17 bin
+drwxr-xr-x root     shell             2015-01-28 01:17 xbin
+./system/bin:
+./system/bin/asan:
+-rw-r--r-- root     root       177516 2015-01-28 01:17 libbinder.so
+-rw-r--r-- root     root        87384 2015-01-28 01:17 libinput.so
+-rw-r--r-- root     root       238832 2015-01-28 01:17 libinputservice.so
+-rw-r--r-- root     root        38180 2015-01-28 01:17 libkeystore_binder.so
+-rw-r--r-- root     root       634996 2015-01-28 01:17 de-DE_gl0_sg.bin
+-rw-r--r-- root     root       440732 2015-01-28 01:17 de-DE_ta.bin
+-rw-r--r-- root     root       584436 2015-01-28 01:17 en-GB_kh0_sg.bin
+-rw-r--r-- root     root       412248 2015-01-28 01:17 en-GB_ta.bin
+-rw-r--r-- root     root       777396 2015-01-28 01:17 en-US_lh0_sg.bin
+-rw-r--r-- root     root       650668 2015-01-28 01:17 en-US_ta.bin
+-rw-r--r-- root     root       256744 2015-01-28 01:17 es-ES_ta.bin
+-rw-r--r-- root     root       605280 2015-01-28 01:17 es-ES_zl0_sg.bin
+-rw-r--r-- root     root       833236 2015-01-28 01:17 fr-FR_nk0_sg.bin
+-rw-r--r-- root     root       381936 2015-01-28 01:17 fr-FR_ta.bin
+-rw-r--r-- root     root       628268 2015-01-28 01:17 it-IT_cm0_sg.bin
+-rw-r--r-- root     root       252044 2015-01-28 01:17 it-IT_ta.bin
+-rw-r--r-- root     root       210822 2015-01-28 01:17 fw_bcm40181a2.bin
+-rw-r--r-- root     root       204070 2015-01-28 01:17 fw_bcm40181a2_apsta.bin
+-rw-r--r-- root     root       212536 2015-01-28 01:17 fw_bcm40181a2_p2p.bin
+-rw-r--r-- root     root       242204 2015-01-28 01:17 left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32.bin
+-rw-r--r-- root     root       239032 2015-01-28 01:17 nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32.bin
+-rw-r--r-- root     root       227880 2015-01-28 01:17 right_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-2.bin
+-rw-r--r-- root     root       437148 2015-01-28 01:17 head-y0-yi45-p0-pi45-r0-ri30.4a-v24.bin
+-rw-r--r-- root     root       395904 2015-01-28 01:17 head-y0-yi45-p0-pi45-rn30-ri30.5-v24.bin
+-rw-r--r-- root     root       403000 2015-01-28 01:17 head-y0-yi45-p0-pi45-rp30-ri30.5-v24.bin
+-rw-r--r-- root     root     11981284 2015-01-28 01:17 face.face.y0-y0-22-b-N.bin
+./system/xbin:
