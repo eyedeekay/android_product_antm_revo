@@ -1,6 +1,7 @@
 #! /bin/sh
 #This file contains functions that automate rooting this tablet. Maybe others.
 
+#This function is pretty dumb rignt now but it can be smart soon.
 get_system_partition(){
 	echo "/dev/block/nandd"
 }
@@ -11,8 +12,9 @@ root(){
 	adb push su /data/local
 	adb shell su -c mount -o remount,rw -t yaffs2 $(get_system_partition) /system
 	adb shell su -c mv /system/xbin/su /system/xbin/osu
-	adb shell osu -c cat /data/local/su > /system/xbin/su
+	adb shell osu -c cp "/data/local/su" "/system/xbin/su"
 	adb shell osu -c chmod 6755 /system/xbin/su
+	adb shell osu -c ln -s /system/xbin/su /system/su
 }
 
 undo_errors(){
