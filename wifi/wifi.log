@@ -1,0 +1,32 @@
+<4>[ 1670.039948] dhd_pno_get_for_batch : wifi location service is not supported
+<4>[ 1670.048282] dhd_pno_stop_for_batch : wifi location service is not supported
+<4>[ 2748.963405] dhd_pno_get_for_batch : wifi location service is not supported
+<4>[ 2748.971889] dhd_pno_stop_for_batch : wifi location service is not supported
+<4>[ 2749.320428] wl_android_wifi_off in 1
+<4>[ 2749.320536] wl_android_wifi_off in 2: g_wifi_on=1
+<4>[ 2749.427709] [ap6xxx]: sdio wifi power state: off
+<4>[ 2749.427746] wl_android_wifi_off out
+<4>[ 2750.894215] wl_android_wifi_on in 1
+<4>[ 2750.894224] wl_android_wifi_on in 2: g_wifi_on=0
+<4>[ 2750.995529] [ap6xxx]: sdio wifi power state: on
+<4>[ 2751.907371] wl_android_wifi_on: Success
+<4>[ 2754.035674] dhd_pno_get_for_batch : wifi location service is not supported
+<4>[ 2754.043357] dhd_pno_stop_for_batch : wifi location service is not supported
+<5>[ 1670.064473] init: starting 'iprenew_wlan0'
+<5>[ 1670.077013] init: process 'iprenew_wlan0', pid 2849 exited
+<5>[ 2748.845064] init: service 'dhcpcd_wlan0' is being killed
+<5>[ 2748.846576] init: process 'dhcpcd_wlan0', pid 2077 exited
+<4>[ 2749.142525] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from
+<6>[ 2749.145785] ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+<5>[ 2754.253433] init: starting 'dhcpcd_wlan0'
+<7>[ 2766.560182] wlan0: no IPv6 routers present
+<4>[ 1731.713772] bcmsdh_sdmmc_suspend Enter
+<4>[ 1731.779227] bcmsdh_sdmmc_resume Enter
+<4>[ 1731.779235] bcmsdh_sdmmc_resume Enter
+<4>[ 2749.325290] bcmsdh_set_irq: Flag = 0
+<4>[ 2750.894172] dhd_conf_set_fw_name_by_chip: firmware_path=/system/vendor/modules/fw_bcm40181a2.bin
+<4>[ 2750.894203] Compiled in drivers/net/wireless/bcmdhd on
+<4>[ 2751.438510] dhd_conf_set_fw_name_by_chip: firmware_path=/system/vendor/modules/fw_bcm40181a2.bin
+<4>[ 2751.439575] Final fw_path=/system/vendor/modules/fw_bcm40181a2.bin
+<4>[ 2751.720626] bcmsdh_set_drvdata: Enter
+<4>[ 2751.720643] bcmsdh_set_irq: Flag = 1
