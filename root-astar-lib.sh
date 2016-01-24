@@ -20,23 +20,25 @@ install_superuser(){
 	wget -c https://f-droid.org/repo/me.phh.superuser_1033.apk
 	wget -c https://f-droid.org/repo/me.phh.superuser_1033.apk.asc
 	adb uninstall me.phh.superuser
-	adb install me.phh.superuser_1033.apk
 }
 
 root(){
-	echo 1
-	adb shell rm /data/local/su
-	adb push su /data/local
 	adb shell su -c "mount -o remount,rw -t yaffs2 $(get_system_partition) /system"
 #	These are just notes.
 #	adb shell cp 6755 $BIN/$SU /su/bin/daemonsu
 #	adb shell cp 6755 supolicy /su/bin/supolicy_wrapped
 	adb shell su -c mv /system/xbin/su /system/xbin/osu
-	adb shell osu -c cp "/data/local/su" "/system/xbin/su"
+	adb push su /system/xbin
+	adb push osu /system/xbin
 	adb shell osu -c chown root:root /system/xbin/su
 	adb shell osu -c chmod 6755 /system/xbin/su
 	adb shell osu -c rm /system/bin/su
 	adb shell osu -c ln -s /system/xbin/su /system/bin/su
+	adb shell osu -c mv /system/bin/busybox /system/bin/obusybox
+	adb push busybox /system/bin/busybox
+	adb shell osu -c chown root:shell /system/bin/busybox
+	adb shell osu -c chmod 6755 /system/bin/busybox
+	adb push me.phh.superuser_1033.apk /system/app/Superuser.apk
 }
 
 undo_errors(){
