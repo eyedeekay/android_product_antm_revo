@@ -1,4 +1,5 @@
 #! /bin/sh
 . root-astar-lib.sh
-root
-reboot
+#root
+#reboot
+echo "doesn't work yet."
