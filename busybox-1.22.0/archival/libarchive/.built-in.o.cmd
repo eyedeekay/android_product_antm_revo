@@ -1,0 +1,1 @@
+cmd_archival/libarchive/built-in.o :=  rm -f archival/libarchive/built-in.o; /usr/local/android-ndk/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ar rcs archival/libarchive/built-in.o
