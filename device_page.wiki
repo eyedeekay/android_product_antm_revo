@@ -97,8 +97,6 @@ This section explains how to attach a serial port to the device. Make sure it re
 
 Need to get better pictures and help.
 
-[[File:device_uart.jpg|thumb|240px|{{Remove|DEVICE}} UART pads]]
-
 == Device disassembly ==
 
 This device is a common plastic tablet similar to, but not quite following the
