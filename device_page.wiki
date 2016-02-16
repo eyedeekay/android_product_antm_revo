@@ -1,0 +1,145 @@
+{{Infobox Board
+ | image        = [[File:Device_front.jpg|250px]]
+ | manufacturer = [manta.com/c/mx4430p/antm-usa-inc]
+ | dimensions   = width''190.5'' x breadth''108'' x height''10.2''
+ | release_date = {{Edit|Month year}}
+ | website      = [http://www.manta.com/cp/mx4430p/550c99fdbd2a5a746d479a1e/tablet-pc]
+ | soc          = [[A33]] @ 1.2Ghz
+ | dram         = 1GiB DDR3 @ {{Edit|xxx}}MHz
+ | nand         = 8GB
+ | power        = DC 5V @ 3A, 3700mAh 3.7V Li-Ion battery
+ | lcd          = 1024x600 (7" 10:6)
+ | touchscreen  = 5-finger capacitive/resistive ([[Touchscreen#Silead|Silead GSL2681]])
+ | video        = HDMI (Type A/B/C - full/mini/micro), VGA
+ | audio        = 3.5mm headphone plug, 3.5mm microphone plug, internal speaker, internal microphone
+ | network      = WiFi 802.11 b/g/n ([[Wifi#Ampak|Ampak 6210]]), Bluetooth ([[Wifi#Ampak|Ampak 6210]])
+ | storage      = µSD
+ | usb          = 1 USB2.0 OTG
+ | camera       = 0.3MP (640x480) front, 2.0MP (1600x1200) rear
+ | other        = Accelerometer ([[Accelerometer#FreeScale|MMA7660(263 7660 BRAC)]]), GPS, IRDA
+ | headers      = UART, JTAG, LCD, VGA, ...
+}}
+
+{{Remove_only_when_finished|This page needs to be properly filled according to the [[New_Device_howto |New Device Howto]] and the [[New_Device_page|New Device Page guide]].}}
+
+{{Remove|If a device is special, then feel free to provide a terse description of what makes this device so special. But terse, no novels, no marketing blurb.}}
+
+= Identification =
+
+On the back of the device, the following is printed:
+		ANTM LOGO
+		ANTM USA INC.
+		MODEL:AN708
+		FCC ID: 2ACPN-M-752A
+<pre>ANTM REVO 708
+AN708</pre>
+
+The PCB has no immediately visible silkscreening, it appears to be concealed
+behind a ribbon cable which is proving difficult to remove. Regardless, the
+build number, model number, and device label are readily apparent.
+
+In android, under Settings->About Tablet, you will find:
+* Model Number: ''AN708''
+* Build Number: ''astar_d87-eng 4.4.2 KVT49L 20150128 test-keys''
+
+= Sunxi support =
+
+== Current status ==
+
+There is no support for this device in sunxi yet.
+
+== Images ==
+
+{{Remove|Optional. Add MANUFACTURER DEVICE specific sunxi ROM images here. E.g. a livesuit image or some other linux image which uses linux-sunxi code. Do not put non-sunxi images here, they should live under [[#See_also|See also]]. If no sunxi based images are available, this section can be removed.}}
+
+== HW-Pack ==
+
+{{Remove|Optional. Add MANUFACTURER DEVICE sunxi HW-pack specifics here. When empty, this section can be removed.}}
+
+== BSP ==
+
+{{Remove|Optional. Add MANUFACTURER DEVICE sunxi BSP specifics here. When empty, this section can be removed.}}
+
+== Manual build ==
+
+You can build things for yourself by following our [[Manual_build_howto | Manual build howto]] and by choosing from the configurations available below.
+
+=== U-Boot ===
+
+==== Sunxi/Legacy U-Boot ====
+
+Use the ''{{Edit|MANUFACTURER_DEVICE}}'' build target.
+
+==== Mainline U-Boot ====
+
+Use the ''{{Edit|MANUFACTURER_DEVICE}}'' build target.
+
+=== Linux Kernel ===
+
+==== Sunxi/Legacy Kernel ====
+
+This device is strikingly similar to the A-Star KV49L. We'll need to fork this
+Fex file probably. [https://github.com/linux-sunxi/sunxi-boards/blob/master/sys_config/a33/a-star_kv49l.fex | ''a-star_kv49l.fex''] file.
+
+==== Mainline kernel ====
+
+Use the ''{{Edit|FAMILY-CHIP-DEVICE.dtb}}'' device-tree binary.
+
+= Tips, Tricks, Caveats =
+
+{{Remove|Add MANUFACTURER DEVICE specific tips, tricks, Caveats and nice to have changes here.}}
+
+== FEL mode ==
+
+The {{Edit|something}} button triggers [[FEL | FEL mode]].
+
+== {{Edit|Device specific topic}} ==
+
+{{Remove|If there are no further device specific topics to add, remove these sections.}}
+
+== {{Edit|...}} ==
+
+= Adding a serial port ('''voids warranty''') =
+
+[[File:device_uart.jpg|thumb|240px|{{Remove|DEVICE}} UART pads]]
+
+{{Remove|This section explains how to attach a serial port to the device. Make sure it refers to our [[UART|UART howto]]. For a development board, you can just mention how to find the header with the pins and include a picture, and you can remove the warranty voiding warning.}}
+
+== Device disassembly ==
+
+{{Remove|If necessary, provide a short description of how to open the device. Perhaps explain how the pins can be most easily popped. If pins do need to be popped, mention the [[Plastic_tool|Plastic tool howto]].}}
+
+== Locating the UART ==
+
+{{Remove|Describe how to find the RX,TX,GND signals here, and mention the [[UART|UART howto]].}}
+
+= Pictures =
+
+{{Remove|Take some pictures of your device, [[Special:Upload | upload them]], and add them here. DO NOT UPLOAD PICTURES WHICH YOU PLUCKED OFF THE INTERNET.}}
+
+<gallery>
+File:Device_front.jpg
+File:Device_back.jpg
+File:Device_buttons_1.jpg
+File:Device_buttons_2.jpg
+File:Device_board_front.jpg
+File:Device_board_back.jpg
+</gallery>
+
+= Also known as =
+
+* Possibly identical to [[A-Star_KV49L]]
+
+= See also =
+
+[[A33]]
+[[Category:A33 Tablets]]
+[[A-Star_KV49L]]
+
+== Manufacturer images ==
+
+{{Remove|Optional. Add non-sunxi images in this section.}}
+
+[[Category:Devices]]
+[[Category:CATEGORY]]
+

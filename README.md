@@ -16,39 +16,45 @@ respective hardware, spaced as on the respctive hardware.
 Allwinner A33 Quad-Core Processor, not visible at current stage of
 disassembly.
 
-SK Hynix 8gb NAND Flash		H27UCG8T2ETA
-                        	BC      412A
-                        	M18LRE11801
+SK Hynix 8gb NAND Flash	
+				H27UCG8T2ETA
+				BC      412A
+				M18LRE11801
 
-Mysterious chip labeled only    24,000  
-                                 MHZ 
+Mysterious chip labeled only
+				24,000  
+				MHZ 
 
-ELPIDA 1GB DRAM			J8416E6MB
-                		-GN-F
-                		1328R6EK600
+ELPIDA 1GB DRAM
+				J8416E6MB
+				-GN-F
+				1328R6EK600
 
-AXP223 Power Management		E6040AC 6981
+AXP223 Power Management	
+				E6040AC 6981
 
-Mysterious chip labeled only 	26,000
+Mysterious chip labeled only 
+				26,000
 				 MHZ
 
-Mysterious chip labeled		263
+Accelerometer, appears to be from NXP corp, which would make it probably a
+FreeScale based thing judging from the web site? Further research needed.	
+				263
 				7660
 				BRAC
 				.
 
-AP6210 Wi-Fi/BT			AP6210
+AP6210 Wi-Fi/BT	
+				AP6210
 				K10EA0A2
 				1443
 
-SILEAD Touchscreen Controller	Silead
+SILEAD Touchscreen Controller	
+				Silead
 				GSL2681
 				?unknown line?
 
-Additional unknown chip
-
-
-
+Additional unknown chip.
 
 
 ####So Far
