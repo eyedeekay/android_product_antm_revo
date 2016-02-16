@@ -91,7 +91,9 @@ Use the ''{{Edit|FAMILY-CHIP-DEVICE.dtb}}'' device-tree binary.
 
 == FEL mode ==
 
-The {{Edit|something}} button triggers [[FEL | FEL mode]].
+Holding the volume up button before powering on the tablet boots the tablet into
+recovery move. If that doesn't work, it's easiest to use adb. Just type adb
+reboot recovery.
 
 == {{Edit|Device specific topic}} ==
 
@@ -107,7 +109,12 @@ The {{Edit|something}} button triggers [[FEL | FEL mode]].
 
 == Device disassembly ==
 
-{{Remove|If necessary, provide a short description of how to open the device. Perhaps explain how the pins can be most easily popped. If pins do need to be popped, mention the [[Plastic_tool|Plastic tool howto]].}}
+This device is a common plastic tablet following the [[Format_Q8]] tablet
+format. To disassemble it, locate the elliptical impression near the 3.5mm jack
+and place your plastic tool into the seam behind the screen. Twist gently to
+unsnap the first latch, and move your plastic tool toward the closest corner.
+Work your way all around the edge, twisting when necessary to unsnap latches as
+they are encountered.
 
 == Locating the UART ==
 
@@ -115,15 +122,14 @@ The {{Edit|something}} button triggers [[FEL | FEL mode]].
 
 = Pictures =
 
-{{Remove|Take some pictures of your device, [[Special:Upload | upload them]], and add them here. DO NOT UPLOAD PICTURES WHICH YOU PLUCKED OFF THE INTERNET.}}
-
 <gallery>
-File:Device_front.jpg
-File:Device_back.jpg
-File:Device_buttons_1.jpg
-File:Device_buttons_2.jpg
-File:Device_board_front.jpg
-File:Device_board_back.jpg
+File:IMG_1074.jpg
+File:IMG_1075.jpg
+File:IMG_1076.jpg
+File:IMG_1077.jpg
+File:IMG_1078.jpg
+File:IMG_1079.jpg
+File:IMG_1080.jpg
 </gallery>
 
 = Also known as =
