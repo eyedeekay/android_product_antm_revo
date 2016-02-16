@@ -10,6 +10,47 @@ and evenually will fulfill the specifications of the sunxi
 [device](http://linux-sunxi.org/New_Device_howto)
 [pages](http://linux-sunxi.org/New_Device_page)
 
+Extended Specs: These are the specs, with the exact text written on the
+respective hardware, spaced as on the respctive hardware.
+
+Allwinner A33 Quad-Core Processor, not visible at current stage of
+disassembly.
+
+SK Hynix 8gb NAND Flash		H27UCG8T2ETA
+                        	BC      412A
+                        	M18LRE11801
+
+Mysterious chip labeled only    24,000  
+                                 MHZ 
+
+ELPIDA 1GB DRAM			J8416E6MB
+                		-GN-F
+                		1328R6EK600
+
+AXP223 Power Management		E6040AC 6981
+
+Mysterious chip labeled only 	26,000
+				 MHZ
+
+Mysterious chip labeled		263
+				7660
+				BRAC
+				.
+
+AP6210 Wi-Fi/BT			AP6210
+				K10EA0A2
+				1443
+
+SILEAD Touchscreen Controller	Silead
+				GSL2681
+				?unknown line?
+
+Additional unknown chip
+
+
+
+
+
 ####So Far
 So far, the contents of this page include details about the system and a script
 to root it automatically from a GNU/Linux PC. It doesn't actually require an
