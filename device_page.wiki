@@ -27,12 +27,13 @@
 = Identification =
 
 On the back of the device, the following is printed:
+
+		<pre>
 		ANTM LOGO
 		ANTM USA INC.
 		MODEL:AN708
 		FCC ID: 2ACPN-M-752A
-<pre>ANTM REVO 708
-AN708</pre>
+		</pre>
 
 The PCB has no immediately visible silkscreening, it appears to be concealed
 behind a ribbon cable which is proving difficult to remove. Regardless, the
