@@ -1,7 +1,7 @@
  | image        = [[File:Device_front.jpg|250px]]
  | manufacturer = [manta.com/c/mx4430p/antm-usa-inc]
  | dimensions   = width''190.5'' x breadth''108'' x height''10.2''
- | release_date = {{Edit|Month year}}
+ | release_date = March 2015
  | website      = [http://www.manta.com/cp/mx4430p/550c99fdbd2a5a746d479a1e/tablet-pc]
  | soc          = [[A33]] @ 1.2Ghz
  | dram         = 1GiB DDR3 @ {{Edit|xxx}}MHz
@@ -15,12 +15,10 @@
  | storage      = µSD
  | usb          = 1 USB2.0 OTG
  | camera       = 0.3MP (640x480) front, 2.0MP (1600x1200) rear
- | other        = Accelerometer ([[Accelerometer#FreeScale|MMA7660(263 7660 BRAC)]]), GPS, IRDA
- | headers      = UART, JTAG, LCD, VGA, ...
+ | other        = Accelerometer ([[Accelerometer#FreeScale|MMA7660(263 7660 BRAC)]])
+ | headers      = Unknown //UART, JTAG, LCD, VGA, ...
 
-{{Remove_only_when_finished|This page needs to be properly filled according to the [[New_Device_howto |New Device Howto]] and the [[New_Device_page|New Device Page guide]].}}
-
-{{Remove|If a device is special, then feel free to provide a terse description of what makes this device so special. But terse, no novels, no marketing blurb.}}
+Remove_only_when_finished. This page needs to be properly filled according to the [[New_Device_howto |New Device Howto]] and the [[New_Device_page|New Device Page guide]].
 
 = Identification =
 
