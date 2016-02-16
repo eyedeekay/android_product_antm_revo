@@ -75,7 +75,8 @@ Use the ''{{Edit|FAMILY-CHIP-DEVICE.dtb}}'' device-tree binary.
 
 = Tips, Tricks, Caveats =
 
-{{Remove|Add MANUFACTURER DEVICE specific tips, tricks, Caveats and nice to have changes here.}}
+Unlike older Allwinner devices, this device only has some basic images on the
+nanda partition. This means that u-boot and script.bin are living elsewhere.
 
 == FEL mode ==
 
@@ -99,12 +100,12 @@ Need to get better pictures and help.
 
 == Device disassembly ==
 
-This device is a common plastic tablet following the [[Format_Q8]] tablet
-format. To disassemble it, locate the elliptical impression near the 3.5mm jack
-and place your plastic tool into the seam behind the screen. Twist gently to
-unsnap the first latch, and move your plastic tool toward the closest corner.
-Work your way all around the edge, twisting when necessary to unsnap latches as
-they are encountered.
+This device is a common plastic tablet similar to, but not quite following the
+common [[Format_Q8]] tablet format. To disassemble it, locate the elliptical
+impression near the 3.5mm jack and place your plastic tool into the seam behind
+the screen. Twist gently to unsnap the first latch, and move your plastic tool
+toward the closest corner. Work your way all around the edge, twisting when
+necessary to unsnap latches as they are encountered.
 
 == Locating the UART ==
 
