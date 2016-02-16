@@ -48,18 +48,6 @@ In android, under Settings->About Tablet, you will find:
 
 There is no support for this device in sunxi yet.
 
-== Images ==
-
-{{Remove|Optional. Add MANUFACTURER DEVICE specific sunxi ROM images here. E.g. a livesuit image or some other linux image which uses linux-sunxi code. Do not put non-sunxi images here, they should live under [[#See_also|See also]]. If no sunxi based images are available, this section can be removed.}}
-
-== HW-Pack ==
-
-{{Remove|Optional. Add MANUFACTURER DEVICE sunxi HW-pack specifics here. When empty, this section can be removed.}}
-
-== BSP ==
-
-{{Remove|Optional. Add MANUFACTURER DEVICE sunxi BSP specifics here. When empty, this section can be removed.}}
-
 == Manual build ==
 
 You can build things for yourself by following our [[Manual_build_howto | Manual build howto]] and by choosing from the configurations available below.
@@ -68,18 +56,18 @@ You can build things for yourself by following our [[Manual_build_howto | Manual
 
 ==== Sunxi/Legacy U-Boot ====
 
-Use the ''{{Edit|MANUFACTURER_DEVICE}}'' build target.
+Use the [https://github.com/linux-sunxi/u-boot-sunxi/blob/mirror/next/configs/q8_a33_tablet_1024x600_defconfig ''q8_a33_tablet_1024x600_defconfig''] build target.
 
 ==== Mainline U-Boot ====
 
-Use the ''{{Edit|MANUFACTURER_DEVICE}}'' build target.
+Use the [https://github.com/linux-sunxi/u-boot-sunxi/blob/mirror/next/configs/q8_a33_tablet_1024x600_defconfig ''q8_a33_tablet_1024x600_defconfig''] build target.
 
 === Linux Kernel ===
 
 ==== Sunxi/Legacy Kernel ====
 
 This device is strikingly similar to the A-Star KV49L. We'll need to fork this
-Fex file probably. [https://github.com/linux-sunxi/sunxi-boards/blob/master/sys_config/a33/a-star_kv49l.fex | ''a-star_kv49l.fex''] file.
+Fex file probably. [https://github.com/linux-sunxi/sunxi-boards/blob/master/sys_config/a33/a-star_kv49l.fex ''a-star_kv49l.fex''] file.
 
 ==== Mainline kernel ====
 
@@ -95,17 +83,19 @@ Holding the volume up button before powering on the tablet boots the tablet into
 recovery move. If that doesn't work, it's easiest to use adb. Just type adb
 reboot recovery.
 
-== {{Edit|Device specific topic}} ==
+== Interior Form Factor ==
 
-{{Remove|If there are no further device specific topics to add, remove these sections.}}
-
-== {{Edit|...}} ==
+This device is extensively glued and taped internally, with lots of screws. You
+actually have to take the whole screen out to get it fully disassembled, which
+is why it's going to take a minute for me to get good pictures of the insides.
 
 = Adding a serial port ('''voids warranty''') =
 
-[[File:device_uart.jpg|thumb|240px|{{Remove|DEVICE}} UART pads]]
+This section explains how to attach a serial port to the device. Make sure it refers to our [[UART|UART howto]]. For a development board, you can just mention how to find the header with the pins and include a picture, and you can remove the warranty voiding warning.
 
-{{Remove|This section explains how to attach a serial port to the device. Make sure it refers to our [[UART|UART howto]]. For a development board, you can just mention how to find the header with the pins and include a picture, and you can remove the warranty voiding warning.}}
+Need to get better pictures and help.
+
+[[File:device_uart.jpg|thumb|240px|{{Remove|DEVICE}} UART pads]]
 
 == Device disassembly ==
 
@@ -118,7 +108,7 @@ they are encountered.
 
 == Locating the UART ==
 
-{{Remove|Describe how to find the RX,TX,GND signals here, and mention the [[UART|UART howto]].}}
+Need to get better pictures and help.
 
 = Pictures =
 
@@ -134,7 +124,7 @@ File:IMG_1080.jpg
 
 = Also known as =
 
-* Possibly identical to [[A-Star_KV49L]]
+* Not identical, but extremely similar to [[A-Star_KV49L]]
 
 = See also =
 
