@@ -1,5 +1,5 @@
  | image        = [[File:Device_front.jpg|250px]]
- | manufacturer = [manta.com/c/mx4430p/antm-usa-inc]
+ | manufacturer = [http://www.manta.com/c/mx4430p/antm-usa-inc]
  | dimensions   = width''190.5'' x breadth''108'' x height''10.2''
  | release_date = March 2015
  | website      = [http://www.manta.com/cp/mx4430p/550c99fdbd2a5a746d479a1e/tablet-pc]
@@ -9,16 +9,17 @@
  | power        = DC 5V @ 3A, 3700mAh 3.7V Li-Ion battery
  | lcd          = 1024x600 (7" 10:6)
  | touchscreen  = 5-finger capacitive/resistive ([[Touchscreen#Silead|Silead GSL2681]])
- | video        = HDMI (Type A/B/C - full/mini/micro), VGA
+ | video        = LCD
  | audio        = 3.5mm headphone plug, 3.5mm microphone plug, internal speaker, internal microphone
- | network      = WiFi 802.11 b/g/n ([[Wifi#Ampak|Ampak 6210]]), Bluetooth ([[Wifi#Ampak|Ampak 6210]])
+ | network      = WiFi 802.11 b/g/n ([[Wifi#Realtex|Realtex 8187]]), Bluetooth Unknown
  | storage      = µSD
  | usb          = 1 USB2.0 OTG
  | camera       = 0.3MP (640x480) front, 2.0MP (1600x1200) rear
  | other        = Accelerometer ([[Accelerometer#FreeScale|MMA7660(263 7660 BRAC)]])
  | headers      = Unknown //UART, JTAG, LCD, VGA, ...
 
-Remove_only_when_finished. This page needs to be properly filled according to the [[New_Device_howto |New Device Howto]] and the [[New_Device_page|New Device Page guide]].
+Remove_only_when_finished. This page needs to be properly filled according to
+the [[New_Device_howto |New Device Howto]] and the [[New_Device_page|New Device Page guide]].
 
 = Identification =
 
@@ -38,6 +39,9 @@ build number, model number, and device label are readily apparent.
 In android, under Settings->About Tablet, you will find:
 * Model Number: ''AN708''
 * Build Number: ''astar_d87-eng 4.4.2 KVT49L 20150128 test-keys''
+
+This is obviously pretty much similar to the A-Star KV49L's  build number
+string.
 
 = Sunxi support =
 
@@ -68,7 +72,10 @@ Fex file probably. [https://github.com/linux-sunxi/sunxi-boards/blob/master/sys_
 
 ==== Mainline kernel ====
 
-Use the ''{{Edit|FAMILY-CHIP-DEVICE.dtb}}'' device-tree binary.
+Use the ''{{sunxi_defconfig|sunxi_defconfig}}'' kernel configuration file.
+
+Use the ''{{sun8i-a33-q8-tablet.dtb|sun8i-a33-q8-tablet.dtb}}'' device-tree
+binary.
 
 = Tips, Tricks, Caveats =
 
@@ -79,7 +86,11 @@ nanda partition. This means that u-boot and script.bin are living elsewhere.
 
 Holding the volume up button before powering on the tablet boots the tablet into
 recovery move. If that doesn't work, it's easiest to use adb. Just type adb
-reboot recovery.
+reboot recovery and you're in recovery mode. Pressing the up button will attempt
+to start bootloader mode, which will freeze your tablet at a blank screen and
+you may not be able to use it until the battery dies(or you can take your
+plastic tool, open up the case, and disconnect the battery to restart the
+tablet).
 
 == Interior Form Factor ==
 
@@ -89,7 +100,10 @@ is why it's going to take a minute for me to get good pictures of the insides.
 
 = Adding a serial port ('''voids warranty''') =
 
-This section explains how to attach a serial port to the device. Make sure it refers to our [[UART|UART howto]]. For a development board, you can just mention how to find the header with the pins and include a picture, and you can remove the warranty voiding warning.
+This section explains how to attach a serial port to the device. Make sure it
+refers to our [[UART|UART howto]]. For a development board, you can just mention
+how to find the header with the pins and include a picture, and you can remove
+the warranty voiding warning.
 
 Need to get better pictures and help.
 
