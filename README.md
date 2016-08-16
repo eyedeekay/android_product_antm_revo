@@ -16,40 +16,39 @@ respective hardware, spaced as on the respctive hardware.
 Allwinner A33 Quad-Core Processor, not visible at current stage of
 disassembly.
 
-SK Hynix 8gb NAND Flash	
+SK Hynix 8gb NAND Flash
 				H27UCG8T2ETA
 				BC      412A
 				M18LRE11801
 
 Mysterious chip labeled only
-				24,000  
-				MHZ 
+				24,000
+				MHZ
 
 ELPIDA 1GB DRAM
 				J8416E6MB
 				-GN-F
 				1328R6EK600
 
-AXP223 Power Management	
+AXP223 Power Management
 				E6040AC 6981
 
-Mysterious chip labeled only 
+Mysterious chip labeled only
 				26,000
 				 MHZ
 
-Accelerometer, appears to be from NXP corp, which would make it probably a
-FreeScale based thing judging from the web site? Further research needed.	
+Accelerometer, MMA7660
 				263
 				7660
 				BRAC
 				.
 
-AP6210 Wi-Fi/BT	
+AP6210 Wi-Fi/BT
 				AP6210
 				K10EA0A2
 				1443
 
-SILEAD Touchscreen Controller	
+SILEAD Touchscreen Controller
 				Silead
 				GSL2681
 				?unknown line?
@@ -66,7 +65,7 @@ don't even mean that in a derogatory way either. It's just that the sequence of
 events "List mounted filesystems, find /system, follow symlink to block device,
 remount block device read-write," probably doesn't come naturally to people
 who aren't involved in modifying their computers at that level. Which is why I'm
-going to learn enough about batch files to release a script for them. The 
+going to learn enough about batch files to release a script for them. The
 GNU/Linux version is pretty much always going to be better though, just because
 it is so much easier.
 
@@ -76,7 +75,7 @@ Processor	: ARMv7 Processor rev 5 (v7l)
 processor	: 0
 BogoMIPS	: 621.11
 
-Features	: swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls vfpv4 idiva idivt 
+Features	: swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls vfpv4 idiva idivt
 CPU implementer	: 0x41
 CPU architecture: 7
 CPU variant	: 0x0
